@@ -1,5 +1,7 @@
 # lambda-assignment
 
+THIS REPO HAS BEEN MOVED TO https://github.com/mkfifo/calculi
+
 Minimum-viable lambda calculus with assignment interpreter.
 
 Lambda calculus terms are represented by a Haskell ADT,
